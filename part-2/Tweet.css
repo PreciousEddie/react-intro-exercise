@@ -1,0 +1,25 @@
+.tweet {
+  max-width: 490px;
+  background: #fff;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 3px;
+  padding: 30px;
+  border-bottom: 1px solid #3794d3;
+  border-top: 1px solid #3794d3;
+}
+
+.tweet-info {
+  font-weight: bold;
+}
+
+.tweet-info span {
+  color: #657786;
+  font-weight: normal;
+  margin-left: 5px;
+}
+
+.tweet-info p {
+  font-weight: normal;
+  margin-top: 5px;
+}
